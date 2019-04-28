@@ -11,7 +11,7 @@ In order to continue democracy, we Antarcticans would like to establish a nation
 
   b. Republic of Xiephia
  
-  c. Republic of Arctic Snow
+  c. Republic of Timothy
  
   d. Federal District of Edmundland
  
@@ -48,9 +48,9 @@ In order to continue democracy, we Antarcticans would like to establish a nation
 5. **Judicial powers.** All judicial powers of the federal government shall exist in the Ember Court.
 
 ## Article 2: Conflict in Legislation
-1. **Federal v. Republic.** If the federal and republic powers are in conflict, the federal government has supremacy.
+1. **Federal v. Republic.** If federal and republic powers are in conflict, the republic government has supremacy.
 
-2. **Old v. New.** If the old and new laws of the same jurisdiction are in conflict, the newer legislation has supremacy.
+2. **Old v. New.** If old and new laws of the same jurisdiction are in conflict, the newer legislation holds supremacy.
 
 ## Article 3: Ministries
 1. **Responsibilities of the Ministries.** The responsibilities of the Ministries are to draft legislation for the Unity Council and follow through with passed legislation of the Unity Council and precedent set by the Ember Court.
