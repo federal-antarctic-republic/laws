@@ -1,8 +1,8 @@
-# Proclamation of the Federal Antarctic Republic
-**A proclamation to declare the establishment of the Federal Antarctic Republic as a nation on the continent of Antarctica.**
+# Constitution of the Federal Antarctic Republic
+**A Constitution to declare the establishment of the Federal Antarctic Republic as a nation on the continent of Antarctica.**
 
 ## Preamble
-In order to continue democracy, we Antarcticans would like to establish a nation in Antarctica. We believe that nations today will one day fall and democracy must be preserved. We believe that every human has the right to peace, prosperity, and freedom. We believe that with the establishment of this new nation, people can come to our country to escape the persecution or corruption of their home country. We believe that human civilization must be carried out in order to survive.
+In order to continue democracy, we Antarcticans would like to establish a nation in Antarctica. We believe that nations today will one day fall and democracy must be preserved. We believe that every human has the right to peace, prosperity, and freedom. We believe that with the establishment of this new nation, people can come to our country to escape the persecution or corruption of their home country. We believe that human civilization must be carried out in order to survive. We therefore establish the Federal Antarctic Republic under this constitution to provide the best for its citizens and this Earth.
 
 ## Article 1: Creation of the Republic
 1. **Creation and members of the Federal Antarctic Republic.** The Federal Antarctic Republic is a federal republic constituting of four (4) members, three (3) republics and one (1) federal district:
@@ -11,7 +11,7 @@ In order to continue democracy, we Antarcticans would like to establish a nation
 
   b. Republic of Xiephia
  
-  c. Republic of Timothy
+  c. Republic of the Arctic Snow
  
   d. Federal District of Edmundland
  
@@ -48,7 +48,7 @@ In order to continue democracy, we Antarcticans would like to establish a nation
 5. **Judicial powers.** All judicial powers of the federal government shall exist in the Ember Court.
 
 ## Article 2: Conflict in Legislation
-1. **Federal v. Republic.** If federal and republic powers are in conflict, the republic government has supremacy.
+1. **Federal v. Republic.** If federal and republic powers are in conflict, the federal government has supremacy.
 
 2. **Old v. New.** If old and new laws of the same jurisdiction are in conflict, the newer legislation holds supremacy.
 
@@ -70,18 +70,58 @@ In order to continue democracy, we Antarcticans would like to establish a nation
 
 5. **President.** The President is an inherited position in the Unity Council who shall preside over the meetings of the Unity Council. He or she stays in the Snow House, a room for the President to live in.
 
-6. **Veto powers.** The President and all ministers (7) have full veto power over all legislation.
+6. **Veto powers.** The President and all ministers (7) have full veto power over all federal legislation.
 
-## Article 5: Republics' Relations
+7. **Impeachment of the President.** The impeachment of the President can be accomplished by a vote of 70% + 1 of the vote of the Ember Court. The impeachment can only be done for criminal convictions.
+
+8. **Impeachment of members of the Unity Council.** The members of the Unity Council (and thusly ministers) can be impeached by a vote of 60% + 1 of the vote of the Ember Court. The impeachment can only be done for criminal convictions.
+
+## Article 5: Ember Court
+1. **Members.** The Ember Court is the national court assembled of
+    a. For a population lower than 1,000, 3 members.
+    b. For a population lower than 10,000, 4 members.
+    c. For a population lower than 100,000, 5 members.
+    d. For a population lower than 1,000,000, 6 members.
+    e. For a population lower than 10,000,000, 7 members.
+    f. For a population lower than 100,000,000, 8 members.
+    g. For a population lower than 1,000,000,000, 9 members.
+    h. For any population higher, a vote in the Unity Council shall take place.
+
+2. **Election of members.** The election of members to the Ember Court takes place at the death, resignation, or impeachment of any former members by the vote of the public.
+
+3. **Length of the election of members.** The election of members to the Ember Court shall take one and a half years after the death or resignation.
+
+4. **Process of appealing to the Ember Court.** Cases from inferior courts may be appealed to the Ember Court by process established by legislation.
+
+5. **Process of creation of inferior courts.** Directly inferior courts may be formed by constituting a charter and by vote of 50% + 1 of the membership of the Ember Court.
+
+6. **Impeachment of members of the Ember Court.** The members of the Ember Court can be impeached by a vote of 70% + 1 of the vote of the Unity Council.
+
+7. **Payment.** The members of the Ember Court and inferior courts will be compensated for their work, such payment shall not go down in value.
+
+8. **Original jurisdiction.** The Ember Court shall not have original jurisdiction in an area if that area has a lower court unless that court has to do with ambassadors or public officials.
+
+9. **Corruption of blood.** Corruption of blood is banned in the Federal Antarctic Republic.
+
+## Article 6: Republics' Relations
 1. **Free trade.** The republics shall have the right to tariff on any traded items between the republics. They also may institute sales tax on the goods, services, and financial products.
 
 2. **Free travel.** Any person who has lawfully entered into the Federal Antarctic Republic has the right to travel to any public space in another republic as long as that area is meant for public travel (areas that may not be meant for public travel may include a neighbor’s backyard and a government laboratory).
 
-## Article 6: Amendments
-1. **Amendments.** Amendments to this Proclamation may be made by a vote of 50% + 1 of the membership of the Unity Council.
+## Article 7: Management of Republics and Dissolution or Merging of the Republics
+1. **Process for admission of new republics.** New republics can be added by the vote of 50% + 1 of the vote of the republic and of the Federal Antarctic Republic.
 
-## Article 7: Ratification
-1. **Ratification.** The ratification of this Proclamation can be achieved by the signing of the President and the Minister of Foreign Affairs.
+2. **Process for merging of republics.** Current republics can be merged by the approval of 50% + 1 of the vote of the republics that may merge.
+
+3. **Process for secession of republics.** Current republics can secede from the Federal Antarctic Republic by a vote of 60% + 1 of the vote of the republic. The President may veto this if he or she would like to.
+
+4. **Process for merging or dissolution of the Federal Antarctic Republic.** The Federal Antarctic Republic can dissolve (leaving its members independent republics) or merge into another nation by vote of 60% + 1 of the vote of the Federal Antarctic Republic.
+
+## Article 8: Amendments
+1. **Amendments.** Amendments to this Constitution may be made by a vote of 50% + 1 of the membership of the Unity Council.
+
+## Article 9: Ratification
+1. **Ratification.** The ratification of this Constitution can be achieved by the signing of the President and the Minister of Foreign Affairs.
 
 2. **Signatures** (Below)
 
