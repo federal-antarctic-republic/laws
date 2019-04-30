@@ -8,9 +8,11 @@ This act lists out the human rights protected in Arkovia.
 The purpose of this act lay out and conserve Arkovia's compulsory human rights.
 
 ### Section 3: Definitions
+```
 Mature Age: 16 years of age
 Adult Age: 18 years of age
 Military Age: 17 years of age
+```
 
 ## Part 2: Rights
 ### Section 1: List
