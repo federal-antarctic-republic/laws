@@ -36,7 +36,7 @@ Military Age: 17 years of age
     - Equal pay for equal work
     - Form and join trade unions for the protection
 15. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
-16. Everyone has the right to Food, Water and Shelter.
+16. Everyone has the right to food, water, healthcare, and shelter.
 17. Everyone has the right to education. Fundamental education shall be compulsory.
 18. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
 19. Everyone has the right to access infrastructure within reasonable means.
