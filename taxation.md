@@ -5,11 +5,11 @@
 The purpose of this act is to collect taxes for the federal government and to distribute the taxes according to federal law.
 
 ### Section 2: Administrative Authority
-The administrative authority for this act shall be a new division of the `National Bank of the Federal Antarctic Republic` known as the `Taxation Division`.
+The administrative authority for this act shall be a new division of the `National Bank` known as the `Taxation Division`.
 
 ### Section 3: Definitions
 #### Segment 1: Definition of Poverty Line
-The poverty line of the Federal Antarctic Republic shall be the bottom 20% of earners as set by the Census of the Federal Antarctic Republic.
+The poverty line of the Federal Republic of Lauria shall be the bottom 20% of earners as set by the Census of the Federal Republic of Lauria.
 
 ## Part 2: Revenue Collection
 ### Section 1: Per Citizen Tax (PCT)
@@ -41,6 +41,6 @@ Revenue shall be distributed in the following fashion:
 | National Mint | 15% |
 | Ember Court | 5% |
 | Unity Council | 5% |
-| Ant BC | 20% |
+| Antarctica Broadcasting Company | 20% |
 | Environment | 20% |
 | Republics | 0% |
