@@ -2,10 +2,10 @@
 
 ## Part 1: Foundation
 ### Section 1: Preamble
-This act lists out the human rights protected in Arkovia.
+This act lists out the human rights protected in Lauria.
 
 ### Section 2: Purpose
-The purpose of this act lay out and conserve Arkovia's compulsory human rights.
+The purpose of this act lay out and conserve Lauria's compulsory human rights.
 
 ### Section 3: Definitions
 ```
