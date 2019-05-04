@@ -5,11 +5,11 @@
 The purpose of this act is to collect taxes for the federal government and to distribute the taxes according to federal law.
 
 ### Section 2: Administrative Authority
-The administrative authority for this act shall be a new division of the `National Bank of the Federal Antarctic Republic` known as the `Taxation Division`.
+The administrative authority for this act shall be a new division of the `National Bank` known as the `Taxation Division`.
 
 ### Section 3: Definitions
 #### Segment 1: Definition of Poverty Line
-The poverty line of the Federal Antarctic Republic shall be the bottom 20% of earners as set by the Census of the Federal Antarctic Republic.
+The poverty line of the Federal Republic of Lauria shall be the bottom 20% of earners as set by the Census of the Federal Republic of Lauria.
 
 ## Part 2: Revenue Collection
 ### Section 1: Per Citizen Tax (PCT)
@@ -27,6 +27,7 @@ The PST shall be implemented at the rate of 5% per Federal Credit spent.
 The PCT shall not apply to citizens considered under the poverty line and will be discounted ((100/x)-1)% (on the percent) for every x percentages the citizen is above the poverty line for a maximum of 20 percentages.
 
 ## Part 3: Distribution of Revenue
+### Section 1: By Ministry, Company, Legislative Body, and Judicial Body
 Revenue shall be distributed in the following fashion:
 
 | Name        | Percent |
@@ -41,6 +42,19 @@ Revenue shall be distributed in the following fashion:
 | National Mint | 15% |
 | Ember Court | 5% |
 | Unity Council | 5% |
-| Ant BC | 20% |
+| Antarctica Broadcasting Company | 20% |
 | Environment | 20% |
 | Republics | 0% |
+
+### Section 2: By Role
+#### Segment 1: President
+The President of the Unity Council shall be paid 500,000 Lauria Credits per month.
+
+#### Segment 2: Ministers and CEOs
+The Ministers and CEOs of Lauria's government owned companies shall be paid 350,000 Laurian Credits per month.
+
+#### Segment 3: Justices
+The Justices shal be paid 350,000 Laurian Credits per month.
+
+#### Segment 4: Governors
+The Governors shall be paid 350,000 Laurian Credits per month.
