@@ -27,6 +27,7 @@ The PST shall be implemented at the rate of 5% per Federal Credit spent.
 The PCT shall not apply to citizens considered under the poverty line and will be discounted ((100/x)-1)% (on the percent) for every x percentages the citizen is above the poverty line for a maximum of 20 percentages.
 
 ## Part 3: Distribution of Revenue
+### Section 1: By Ministry, Company, Legislative Body, and Judicial Body
 Revenue shall be distributed in the following fashion:
 
 | Name        | Percent |
@@ -44,3 +45,16 @@ Revenue shall be distributed in the following fashion:
 | Antarctica Broadcasting Company | 20% |
 | Environment | 20% |
 | Republics | 0% |
+
+### Section 2: By Role
+#### Segment 1: President
+The President of the Unity Council shall be paid 500,000 Lauria Credits per month.
+
+#### Segment 2: Ministers and CEOs
+The Ministers and CEOs of Lauria's government owned companies shall be paid 350,000 Laurian Credits per month.
+
+#### Segment 3: Justices
+The Justices shal be paid 350,000 Laurian Credits per month.
+
+#### Segment 4: Governors
+The Governors shall be paid 350,000 Laurian Credits per month.
