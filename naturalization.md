@@ -13,6 +13,8 @@ The `Ministry of Immigration` shall have jurisdiction over ensuring this act is 
 2. Citizenship
    - CID
    - VID
+   - Bank ID and PIN
+   - Certificate
 
 ### Section 2: Application
 #### Segment 1: Contents
@@ -64,4 +66,10 @@ It is perjury to purposefully lie on the "Citizenship Application"
 A CID (Citizenship Identification) must be generated for all new citizens. The process for the creation of a CID is 1 + the previous CID.
 
 #### Segment 2: PIN
-A PIN (Persona Identification Number) must be generated for all citizens. The process for the creation of a PIN is a random number between 111111111 and 999999999.
+A PIN (Persona Identification Number) must be generated for all citizens. The process for the creation of a PIN is a random number between 111111111 and 999999999. Once the CID and PIN are submitted, the aplyee is officially a citizen of the Federal Republic of Lauria.
+
+#### Segment 3: Bank ID and PIN
+A Bank ID and PIN will be created for citizens if they approved of a creation of a bank account.
+
+#### Segment 4: Certificate
+A certificate will be commissioned for all new citizens and distributed to their emails along with their banking and citizenship information.
